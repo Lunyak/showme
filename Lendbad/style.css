@@ -229,11 +229,24 @@ h1 {
 
 .about__right {
     width: 290px;
-    display: inline-block;
+    display:flex;
+    justify-content:right;
+    align-items: flex-end;
 }
 
+.about__head2 {
+    margin-bottom: 93px;
+    height: 185px;
+    width: 290px;
+    display:flex;
+    justify-content:right;
+    align-items: flex-end;
 
+}
 
+display:flex;
+justify-content:center;
+align-items:center;
 
 
 
