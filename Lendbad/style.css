@@ -171,46 +171,35 @@ h1 {
     margin-left: 29px;
 }
 
-.about {
-    margin-top: 50px;
-    margin-bottom: 200px;
-    
-    height: auto;
-    justify-content: center
+
+
+.about__head {
+    display: inline-block;
 
 }
 
-.about__item {
-    display: flex;
-    position: relative;
-    text-align: left;
-    
-}
-
-.about__text {
-    width: 320px;
-    text-align: right;
-    padding-left: 37px;
-}
-
-.about__item2 {
-    display: flex;
-    margin-top: 20px;
+.about__left {
+    width: 30.33333%;
+    display: inline-block;
 }
 
 .about__img {
-    height: auto;
-    display: flex;
-    padding-left: 50px;
+    width: 30.33333%;
+    display: inline-block;
 }
 
-.about__img__2 {
-    
-    
+.about__right {
+    width: 30.33333%;
+    display: inline-block;
 }
 
-.about__text__2 {
-    width: 300px;
-    text-align: left;
 
-проба слияния на хабе
+
+css.fileExtensions": [ "css", "scss"]
+
+
+
+
+
+
+
