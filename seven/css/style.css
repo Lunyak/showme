@@ -163,5 +163,12 @@
 }
 
 .slider__title {
+  text-transform: uppercase;
+  font-size: 30px;
+  line-height: 36px;
+  color: #fff;
+  font-weight: 500;
+  letter-spacing: .5px;
+  margin-bottom: 22px;
             
 }
