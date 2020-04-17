@@ -1,5 +1,3 @@
-$(function(){
-
-    console ("hi")
-
+$(function () {
+  $('.slider__inner').slick();
 });
