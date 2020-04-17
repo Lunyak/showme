@@ -1,13 +1,12 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('../fonts/icomoon.eot?7mvl99');
-  src:  url('../fonts/icomoon.eot?7mvl99#iefix') format('embedded-opentype'),
-    url('../fonts/icomoon.ttf?7mvl99') format('truetype'),
-    url('../fonts/icomoon.woff?7mvl99') format('woff'),
-    url('../fonts/icomoon.svg?7mvl99#icomoon') format('svg');
+  src:  url('../fonts/icomoon.eot?jilhky');
+  src:  url('../fonts/icomoon.eot?jilhky#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?jilhky') format('truetype'),
+    url('../fonts/icomoon.woff?jilhky') format('woff'),
+    url('../fonts/icomoon.svg?jilhky#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
-  font-display: block;
 }
 
 [class^="icon-"], [class*=" icon-"] {
@@ -57,7 +56,4 @@
 }
 .icon-quote-right:before {
   content: "\f10e";
-}
-.icon-menu:before {
-  content: "\e9bd";
 }
