@@ -102,5 +102,60 @@ p {
 }
 
 .feature {
-    400px
+    height: 400px;
+    
+}
+
+.feature__title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Tahoma' sans-serif;
+    margin-bottom: 97px;
+}
+
+.feature__title__text {  
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Tahoma' sans-serif;
+    margin-bottom: 50px;
+}
+
+.feature__item {
+    display: inline-block;
+    width: 25%;
+    height: 130px;
+    text-align: center;
+    float: left;
+}
+
+.feature__img{
+    min-height: 55px;
+}
+
+
+.feature__context {
+    margin-top: 15px;
+}
+
+.clearfix::after {
+    content: '';
+    display: table;
+    width: 100%;
+    clear: both;
+}
+
+.footer__title {  
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Tahoma' sans-serif;
+    margin-bottom: 50px;
+    
+}
+
+.footer__img {
+    display: inline-block;
+    
 }
