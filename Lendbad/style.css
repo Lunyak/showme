@@ -84,9 +84,8 @@ header {
     text-align: center;
     font-size: 16px;
     margin-top: 5px;
-    
-    
 }
+
 h1 {
     font-family: Arial, sans-serif;
     color: #fff;
@@ -171,46 +170,47 @@ h1 {
     margin-left: 29px;
 }
 
-.about {
-    margin-top: 50px;
-    margin-bottom: 200px;
-    
-    height: auto;
-    justify-content: center
 
-}
-
-.about__item {
+.qweContainer {
     display: flex;
-    position: relative;
-    text-align: left;
-    
+    justify-content: center;
+    margin-top: 90px;
 }
 
-.about__text {
-    width: 320px;
+.qweRight {
+    width: 300px;
+}
+
+.qweLeft {
+    width: 300px;
     text-align: right;
-    padding-left: 37px;
 }
 
-.about__item2 {
-    display: flex;
-    margin-top: 20px;
+.qweCenter {
+    /*  */
 }
 
 .about__img {
-    height: auto;
+    margin: 0 40px;
+
+}
+
+h4 {
+    font-size: 18px;
+    margin: 0 0 15px 0;
+    padding: 0;
+}
+
+.qweContainer:last-child {
+    margin-bottom: 80px;
+}
+
+.footer {
     display: flex;
-    padding-left: 50px;
+    justify-content: center;
 }
 
-.about__img__2 {
-    
-    
+.footer__title {
+    margin-bottom: 110px;
+    font-size: 14px;
 }
-
-.about__text__2 {
-    width: 300px;
-    text-align: left;
-
-проба слияния на хабе
